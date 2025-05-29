@@ -1,0 +1,7 @@
+Algoritimo (subtração, multiplicação e divisão).
+
+Q1 - Realize a subtração dos dois números inteiros 'x' e 'y'.
+
+  (1) Entrada: dois números inteiros 'x' e 'y'.
+  (2) Saída: resultado da subtração dos dois números inteiros
+  (3)
