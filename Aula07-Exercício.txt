@@ -2,6 +2,36 @@ Algoritimo (subtração, multiplicação e divisão).
 
 Q1 - Realize a subtração dos dois números inteiros 'x' e 'y'.
 
+Passo a passo:
   (1) Entrada: dois números inteiros 'x' e 'y'.
-  (2) Saída: resultado da subtração dos dois números inteiros
-  (3) 
+  (2) Saída: resultado da subtração dos dois números inteiros.
+  (3) Processamento: cálculo da subtração de 'x' menos 'y'.
+
+1. Read [x];
+2. Scan [y];
+3. Show = [x] - [y];
+4. Mostre show.
+
+Q2 - Realize a multiplicação dos dois números inteiros 'x' e 'y'.
+
+Passo a passo:
+  (1) Entrada: dois números inteiros 'x' e 'y'.
+  (2) Saída: resultado da multiplicação de 'x' multiplicado por 'y'.
+  (3) Processamento: cálculo da multiplicação de 'x' multiplicado por 'y'.
+
+1. Read [x];
+2. Scan [y];
+3. Show = [x] × [y];
+4. Mostre show.
+
+Q3 - Realize a divisão dos dois números inteiros 'x' e 'y'.
+
+Passo a passo:
+  (1) Entrada: dois números inteiros 'x' e 'y'.
+  (2) Saída: resultado da divisão de 'x' dividido para 'y'.
+  (3) Processamento: cálculo da divisão de 'x' dividido para 'y'.
+
+1. Read [x];
+2. Scan [y];
+3. Show = [x] ÷ [y];
+4. Mostre show.
